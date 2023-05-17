@@ -15,7 +15,7 @@
 |------------------------------------------------------------|
 
 
-|[💻 Born2BeRoot - Click Here !]( https://github.com/pasqualerossi/Born2BeRoot-Guide )|
+|[💻 Born2BeRoot - Click Here !]( https://github.com/meloo244/Born2BeRoot-Guide )|
 |------------------------------------------------------------|
 
 ### 2st Circle
