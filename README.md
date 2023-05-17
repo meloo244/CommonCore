@@ -22,3 +22,9 @@
 
 |[💻 MiniTalk - Click Here !]( https://github.com/pasqualerossi/MiniTalk )|
 |------------------------------------------------------------|
+
+|[💻 SoLong - Advanced[50%] 🚫]( https://github.com/pasqualerossi/SoLong )|
+|------------------------------------------------------------|
+
+|[💻 PushSwap - Advanced[10%] 🚫]( https://github.com/pasqualerossi/PushSwap )|
+|------------------------------------------------------------|
