@@ -20,11 +20,11 @@
 
 ### 2st Circle
 
-|[💻 MiniTalk - Click Here !]( https://github.com/pasqualerossi/MiniTalk )|
+|[💻 MiniTalk - Click Here !]( https://github.com/meloo244/MiniTalk )|
 |------------------------------------------------------------|
 
-|[💻 SoLong - Advanced[50%] 🚫]( https://github.com/pasqualerossi/SoLong )|
+|[💻 SoLong - Advanced[50%] 🚫]( https://github.com/meloo244/SoLong )|
 |------------------------------------------------------------|
 
-|[💻 PushSwap - Advanced[10%] 🚫]( https://github.com/pasqualerossi/PushSwap )|
+|[💻 PushSwap - Advanced[10%] 🚫]( https://github.com/meloo244/PushSwap )|
 |------------------------------------------------------------|
